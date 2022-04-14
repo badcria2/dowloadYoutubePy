@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f3b764b4-5181-4fd2-8e8c-bd7d3c05efd6/resourceGroups/DefaultResourceGroup-CUS/providers/Microsoft.Web/sites/utilDownload",
+    "appService.deploySubpath": "."
+}
