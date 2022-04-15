@@ -1,0 +1,3 @@
+youtube_dl
+Flask==2.0.2
+streamlit
